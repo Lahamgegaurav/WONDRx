@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test" thread-count="5">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+    <!--  <class name="testCases.TC001_AccountRegistrationTest"/> -->
+      <!--   <class name="testCases.TC002_LoginTest"/> -->
+       <class name="testCases.TC003_LoginDDT"/>
+    </classes>
+  </test>
+</suite>

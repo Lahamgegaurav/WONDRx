@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-21T15:51:31 IST" name="Suite" finished-at="2025-06-21T15:52:45 IST" duration-ms="74753">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_About_01_VerifyPageLoad.verify_pageloaded()[pri:0, instance:testCases.TC_About_01_VerifyPageLoad@47f9738]" name="verify_pageloaded" class="testCases.TC_About_01_VerifyPageLoad"/>
+        <method signature="TC_About_05_VerifyAboutUsSection.verify_AboutUsSectiondisplayed()[pri:0, instance:testCases.TC_About_05_VerifyAboutUsSection@6436a7db]" name="verify_AboutUsSectiondisplayed" class="testCases.TC_About_05_VerifyAboutUsSection"/>
+        <method signature="TC_About_06_VerifyWhoAreWeSection.verify_WhoAreWESectionheaderdisplayed()[pri:0, instance:testCases.TC_About_06_VerifyWhoAreWeSection@460ebd80]" name="verify_WhoAreWESectionheaderdisplayed" class="testCases.TC_About_06_VerifyWhoAreWeSection"/>
+        <method signature="TC_About_07_VerifyVisionWeHaveSection.verify_WhoAreWESectionheaderdisplayed()[pri:0, instance:testCases.TC_About_07_VerifyVisionWeHaveSection@6f3c660a]" name="verify_WhoAreWESectionheaderdisplayed" class="testCases.TC_About_07_VerifyVisionWeHaveSection"/>
+        <method signature="TC_About_08_VerifyMissionWeAreOnSection.verify_MissionWeAreOnSectiondisplayed()[pri:0, instance:testCases.TC_About_08_VerifyMissionWeAreOnSection@74f5ce22]" name="verify_MissionWeAreOnSectiondisplayed" class="testCases.TC_About_08_VerifyMissionWeAreOnSection"/>
+        <method signature="TC_About_09_VerifyWondRxvaluesSection.verify_VerifyWondRxvaluesSection_displayed()[pri:0, instance:testCases.TC_About_09_VerifyWondRxvaluesSection@25aca718]" name="verify_VerifyWondRxvaluesSection_displayed" class="testCases.TC_About_09_VerifyWondRxvaluesSection"/>
+        <method signature="TC_About_10_VerifyPageTitle.verify_pageTitle()[pri:0, instance:testCases.TC_About_10_VerifyPageTitle@7803bfd]" name="verify_pageTitle" class="testCases.TC_About_10_VerifyPageTitle"/>
+        <method signature="TC_About_11_VerifyFooterCopyRighttext.verify_pageTitle()[pri:0, instance:testCases.TC_About_11_VerifyFooterCopyRighttext@16fdec90]" name="verify_pageTitle" class="testCases.TC_About_11_VerifyFooterCopyRighttext"/>
+        <method signature="TC_About_15_VerifyHeaderLinks.testHeaderLinksStatus()[pri:0, instance:testCases.TC_About_15_VerifyHeaderLinks@42bc14c1]" name="testHeaderLinksStatus" class="testCases.TC_About_15_VerifyHeaderLinks"/>
+        <method signature="TC_About_16_VerifyFooterLinks.testFooterLinksStatus()[pri:0, instance:testCases.TC_About_16_VerifyFooterLinks@531f4093]" name="testFooterLinksStatus" class="testCases.TC_About_16_VerifyFooterLinks"/>
+        <method signature="TC_About_17_VerifyFaIcons.verify_Verify_fa_icons_displayed()[pri:0, instance:testCases.TC_About_17_VerifyFaIcons@40238dd0]" name="verify_Verify_fa_icons_displayed" class="testCases.TC_About_17_VerifyFaIcons"/>
+        <method signature="TC_About_18_VerifyFooterLogoAndCenterText.verify_VerifyWondRxvaluesSection_displayed()[pri:0, instance:testCases.TC_About_18_VerifyFooterLogoAndCenterText@1afdd473]" name="verify_VerifyWondRxvaluesSection_displayed" class="testCases.TC_About_18_VerifyFooterLogoAndCenterText"/>
+        <method signature="TC_About_19_VerifyLogoInHeader.verify_HeaderLogo()[pri:0, instance:testCases.TC_About_19_VerifyLogoInHeader@62ef27a8]" name="verify_HeaderLogo" class="testCases.TC_About_19_VerifyLogoInHeader"/>
+        <method signature="TC_About_25_NavigationBackNext.verify_HeaderLogo()[pri:0, instance:testCases.TC_About_25_NavigationBackNext@7776ab]" name="verify_HeaderLogo" class="testCases.TC_About_25_NavigationBackNext"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-06-21T15:51:31 IST" name="Test" finished-at="2025-06-21T15:52:45 IST" duration-ms="74753">
+      <class name="testCases.TC_About_11_VerifyFooterCopyRighttext">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_11_VerifyFooterCopyRighttext@16fdec90]" started-at="2025-06-21T15:52:22 IST" name="setup" finished-at="2025-06-21T15:52:24 IST" duration-ms="1596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_pageTitle()[pri:0, instance:testCases.TC_About_11_VerifyFooterCopyRighttext@16fdec90]" started-at="2025-06-21T15:52:24 IST" name="verify_pageTitle" finished-at="2025-06-21T15:52:24 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_pageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_11_VerifyFooterCopyRighttext@16fdec90]" started-at="2025-06-21T15:52:24 IST" name="tearDown" finished-at="2025-06-21T15:52:24 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_11_VerifyFooterCopyRighttext -->
+      <class name="testCases.TC_About_05_VerifyAboutUsSection">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_05_VerifyAboutUsSection@6436a7db]" started-at="2025-06-21T15:51:57 IST" name="setup" finished-at="2025-06-21T15:52:01 IST" duration-ms="4356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_AboutUsSectiondisplayed()[pri:0, instance:testCases.TC_About_05_VerifyAboutUsSection@6436a7db]" started-at="2025-06-21T15:52:01 IST" name="verify_AboutUsSectiondisplayed" finished-at="2025-06-21T15:52:01 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AboutUsSectiondisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_05_VerifyAboutUsSection@6436a7db]" started-at="2025-06-21T15:52:01 IST" name="tearDown" finished-at="2025-06-21T15:52:01 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_05_VerifyAboutUsSection -->
+      <class name="testCases.TC_About_16_VerifyFooterLinks">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_16_VerifyFooterLinks@531f4093]" started-at="2025-06-21T15:51:47 IST" name="setup" finished-at="2025-06-21T15:51:51 IST" duration-ms="4236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testFooterLinksStatus()[pri:0, instance:testCases.TC_About_16_VerifyFooterLinks@531f4093]" started-at="2025-06-21T15:51:51 IST" name="testFooterLinksStatus" finished-at="2025-06-21T15:51:52 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFooterLinksStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_16_VerifyFooterLinks@531f4093]" started-at="2025-06-21T15:51:52 IST" name="tearDown" finished-at="2025-06-21T15:51:52 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_16_VerifyFooterLinks -->
+      <class name="testCases.TC_About_25_NavigationBackNext">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_25_NavigationBackNext@7776ab]" started-at="2025-06-21T15:52:34 IST" name="setup" finished-at="2025-06-21T15:52:38 IST" duration-ms="4386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_HeaderLogo()[pri:0, instance:testCases.TC_About_25_NavigationBackNext@7776ab]" started-at="2025-06-21T15:52:38 IST" name="verify_HeaderLogo" finished-at="2025-06-21T15:52:45 IST" duration-ms="6593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_HeaderLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_25_NavigationBackNext@7776ab]" started-at="2025-06-21T15:52:45 IST" name="tearDown" finished-at="2025-06-21T15:52:45 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_25_NavigationBackNext -->
+      <class name="testCases.TC_About_17_VerifyFaIcons">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_17_VerifyFaIcons@40238dd0]" started-at="2025-06-21T15:52:29 IST" name="setup" finished-at="2025-06-21T15:52:34 IST" duration-ms="4865" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Verify_fa_icons_displayed()[pri:0, instance:testCases.TC_About_17_VerifyFaIcons@40238dd0]" started-at="2025-06-21T15:52:34 IST" name="verify_Verify_fa_icons_displayed" finished-at="2025-06-21T15:52:34 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Verify_fa_icons_displayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_17_VerifyFaIcons@40238dd0]" started-at="2025-06-21T15:52:34 IST" name="tearDown" finished-at="2025-06-21T15:52:34 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_17_VerifyFaIcons -->
+      <class name="testCases.TC_About_19_VerifyLogoInHeader">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_19_VerifyLogoInHeader@62ef27a8]" started-at="2025-06-21T15:51:52 IST" name="setup" finished-at="2025-06-21T15:51:57 IST" duration-ms="4312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_HeaderLogo()[pri:0, instance:testCases.TC_About_19_VerifyLogoInHeader@62ef27a8]" started-at="2025-06-21T15:51:57 IST" name="verify_HeaderLogo" finished-at="2025-06-21T15:51:57 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_HeaderLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_19_VerifyLogoInHeader@62ef27a8]" started-at="2025-06-21T15:51:57 IST" name="tearDown" finished-at="2025-06-21T15:51:57 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_19_VerifyLogoInHeader -->
+      <class name="testCases.TC_About_09_VerifyWondRxvaluesSection">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_09_VerifyWondRxvaluesSection@25aca718]" started-at="2025-06-21T15:52:12 IST" name="setup" finished-at="2025-06-21T15:52:17 IST" duration-ms="4192" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_VerifyWondRxvaluesSection_displayed()[pri:0, instance:testCases.TC_About_09_VerifyWondRxvaluesSection@25aca718]" started-at="2025-06-21T15:52:17 IST" name="verify_VerifyWondRxvaluesSection_displayed" finished-at="2025-06-21T15:52:22 IST" duration-ms="5210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_VerifyWondRxvaluesSection_displayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_09_VerifyWondRxvaluesSection@25aca718]" started-at="2025-06-21T15:52:22 IST" name="tearDown" finished-at="2025-06-21T15:52:22 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_09_VerifyWondRxvaluesSection -->
+      <class name="testCases.TC_About_07_VerifyVisionWeHaveSection">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_07_VerifyVisionWeHaveSection@6f3c660a]" started-at="2025-06-21T15:52:03 IST" name="setup" finished-at="2025-06-21T15:52:07 IST" duration-ms="4071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_WhoAreWESectionheaderdisplayed()[pri:0, instance:testCases.TC_About_07_VerifyVisionWeHaveSection@6f3c660a]" started-at="2025-06-21T15:52:07 IST" name="verify_WhoAreWESectionheaderdisplayed" finished-at="2025-06-21T15:52:08 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_WhoAreWESectionheaderdisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_07_VerifyVisionWeHaveSection@6f3c660a]" started-at="2025-06-21T15:52:08 IST" name="tearDown" finished-at="2025-06-21T15:52:08 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_07_VerifyVisionWeHaveSection -->
+      <class name="testCases.TC_About_06_VerifyWhoAreWeSection">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_06_VerifyWhoAreWeSection@460ebd80]" started-at="2025-06-21T15:52:01 IST" name="setup" finished-at="2025-06-21T15:52:03 IST" duration-ms="1540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_WhoAreWESectionheaderdisplayed()[pri:0, instance:testCases.TC_About_06_VerifyWhoAreWeSection@460ebd80]" started-at="2025-06-21T15:52:03 IST" name="verify_WhoAreWESectionheaderdisplayed" finished-at="2025-06-21T15:52:03 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_WhoAreWESectionheaderdisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_06_VerifyWhoAreWeSection@460ebd80]" started-at="2025-06-21T15:52:03 IST" name="tearDown" finished-at="2025-06-21T15:52:03 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_06_VerifyWhoAreWeSection -->
+      <class name="testCases.TC_About_08_VerifyMissionWeAreOnSection">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_08_VerifyMissionWeAreOnSection@74f5ce22]" started-at="2025-06-21T15:52:08 IST" name="setup" finished-at="2025-06-21T15:52:12 IST" duration-ms="4230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_MissionWeAreOnSectiondisplayed()[pri:0, instance:testCases.TC_About_08_VerifyMissionWeAreOnSection@74f5ce22]" started-at="2025-06-21T15:52:12 IST" name="verify_MissionWeAreOnSectiondisplayed" finished-at="2025-06-21T15:52:12 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_MissionWeAreOnSectiondisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_08_VerifyMissionWeAreOnSection@74f5ce22]" started-at="2025-06-21T15:52:12 IST" name="tearDown" finished-at="2025-06-21T15:52:12 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_08_VerifyMissionWeAreOnSection -->
+      <class name="testCases.TC_About_15_VerifyHeaderLinks">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_15_VerifyHeaderLinks@42bc14c1]" started-at="2025-06-21T15:51:41 IST" name="setup" finished-at="2025-06-21T15:51:45 IST" duration-ms="4421" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testHeaderLinksStatus()[pri:0, instance:testCases.TC_About_15_VerifyHeaderLinks@42bc14c1]" started-at="2025-06-21T15:51:45 IST" name="testHeaderLinksStatus" finished-at="2025-06-21T15:51:47 IST" duration-ms="1371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeaderLinksStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_15_VerifyHeaderLinks@42bc14c1]" started-at="2025-06-21T15:51:47 IST" name="tearDown" finished-at="2025-06-21T15:51:47 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_15_VerifyHeaderLinks -->
+      <class name="testCases.TC_About_01_VerifyPageLoad">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_01_VerifyPageLoad@47f9738]" started-at="2025-06-21T15:51:31 IST" name="setup" finished-at="2025-06-21T15:51:36 IST" duration-ms="5375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_pageloaded()[pri:0, instance:testCases.TC_About_01_VerifyPageLoad@47f9738]" started-at="2025-06-21T15:51:36 IST" name="verify_pageloaded" finished-at="2025-06-21T15:51:36 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_pageloaded -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_01_VerifyPageLoad@47f9738]" started-at="2025-06-21T15:51:36 IST" name="tearDown" finished-at="2025-06-21T15:51:36 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_01_VerifyPageLoad -->
+      <class name="testCases.TC_About_18_VerifyFooterLogoAndCenterText">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_18_VerifyFooterLogoAndCenterText@1afdd473]" started-at="2025-06-21T15:52:24 IST" name="setup" finished-at="2025-06-21T15:52:28 IST" duration-ms="4232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_VerifyWondRxvaluesSection_displayed()[pri:0, instance:testCases.TC_About_18_VerifyFooterLogoAndCenterText@1afdd473]" started-at="2025-06-21T15:52:28 IST" name="verify_VerifyWondRxvaluesSection_displayed" finished-at="2025-06-21T15:52:29 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_VerifyWondRxvaluesSection_displayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_18_VerifyFooterLogoAndCenterText@1afdd473]" started-at="2025-06-21T15:52:29 IST" name="tearDown" finished-at="2025-06-21T15:52:29 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_18_VerifyFooterLogoAndCenterText -->
+      <class name="testCases.TC_About_10_VerifyPageTitle">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_About_10_VerifyPageTitle@7803bfd]" started-at="2025-06-21T15:51:36 IST" name="setup" finished-at="2025-06-21T15:51:41 IST" duration-ms="4220" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_pageTitle()[pri:0, instance:testCases.TC_About_10_VerifyPageTitle@7803bfd]" started-at="2025-06-21T15:51:41 IST" name="verify_pageTitle" finished-at="2025-06-21T15:51:41 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_pageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_About_10_VerifyPageTitle@7803bfd]" started-at="2025-06-21T15:51:41 IST" name="tearDown" finished-at="2025-06-21T15:51:41 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_About_10_VerifyPageTitle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

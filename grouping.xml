@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <groups>
+	  <run>
+		  <!-- <include name="Master"/> -->
+		  <include name="sanity"/>
+		  <!--<exclude name="Regression"/> -->
+	  </run>
+  </groups>
+  
+     <listeners>
+	  <listener class-name="utilities.ExtentReportManager" />
+  </listeners>
+
+  <test name="Test" thread-count="5">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCases.TC_About_01_VerifyPageLoad"/>
+       <class name="testCases.TC_About_10_VerifyPageTitle"/>
+       <class name="testCases.TC_About_15_VerifyHeaderLinks"/>
+       <class name="testCases.TC_About_16_VerifyFooterLinks"/>
+       <class name="testCases.TC_About_19_VerifyLogoInHeader"/>
+       <class name="testCases.TC_About_05_VerifyAboutUsSection"/>
+       <class name="testCases.TC_About_06_VerifyWhoAreWeSection"/>
+       <class name="testCases.TC_About_07_VerifyVisionWeHaveSection"/>
+       <class name="testCases.TC_About_08_VerifyMissionWeAreOnSection"/>    
+       <class name="testCases.TC_About_09_VerifyWondRxvaluesSection"/>
+       <class name="testCases.TC_About_11_VerifyFooterCopyRighttext"/>
+       <class name="testCases.TC_About_18_VerifyFooterLogoAndCenterText"/>
+       <class name="testCases.TC_About_17_VerifyFaIcons"/>
+       <class name="testCases.TC_About_25_NavigationBackNext"/>                 
+    </classes>
+  </test>
+</suite>

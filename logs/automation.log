@@ -1,0 +1,183 @@
+2025-06-21 00:02:57 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:02:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml
+
+2025-06-21 00:03:03 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:03:04 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:03:04 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:03:09 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 00:05:06 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:05:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml
+
+2025-06-21 00:05:11 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:05:12 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:06:36 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:06:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml
+
+2025-06-21 00:06:42 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:06:42 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:09:03 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:09:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml
+
+2025-06-21 00:09:08 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:09:08 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:09:13 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 00:09:13 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 00:10:22 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:10:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\crossbrowsertesting.xml
+
+2025-06-21 00:10:26 INFO  TC_About_01_VerifyPageLoad:14 - ****** Starting TC_About_01_VerifyPageLoad *****
+2025-06-21 00:10:26 INFO  TC_About_01_VerifyPageLoad:21 - ****** Finished TC_About_01_VerifyPageLoad *****
+2025-06-21 00:10:27 INFO  TC_About_01_VerifyPageLoad:14 - ****** Starting TC_About_01_VerifyPageLoad *****
+2025-06-21 00:10:27 INFO  TC_About_01_VerifyPageLoad:21 - ****** Finished TC_About_01_VerifyPageLoad *****
+2025-06-21 00:10:31 INFO  TC_About_10_VerifyPageTitle:14 - ****** Starting TC_About_10_VerifyPageTitle *****
+2025-06-21 00:10:31 INFO  TC_About_10_VerifyPageTitle:20 - ****** Finished TC_About_10_VerifyPageTitle *****
+2025-06-21 00:10:34 INFO  TC_About_10_VerifyPageTitle:14 - ****** Starting TC_About_10_VerifyPageTitle *****
+2025-06-21 00:10:34 INFO  TC_About_10_VerifyPageTitle:20 - ****** Finished TC_About_10_VerifyPageTitle *****
+2025-06-21 00:10:36 INFO  TC_About_15_VerifyHeaderLinks:16 - ****** Starting TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:10:37 INFO  TC_About_15_VerifyHeaderLinks:19 - ****** Checking Broken links not present in header *****
+2025-06-21 00:10:37 INFO  TC_About_15_VerifyHeaderLinks:23 - ****** Finished TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:10:39 INFO  TC_About_16_VerifyFooterLinks:16 - ****** Starting TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:10:40 INFO  TC_About_16_VerifyFooterLinks:19 - ****** Checking Broken links not present in footer *****
+2025-06-21 00:10:40 INFO  TC_About_16_VerifyFooterLinks:23 - ****** Finished TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:10:42 INFO  TC_About_15_VerifyHeaderLinks:16 - ****** Starting TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:10:43 INFO  TC_About_19_VerifyLogoInHeader:14 - ****** Starting TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:10:43 INFO  TC_About_19_VerifyLogoInHeader:22 - ****** Finished TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:10:44 INFO  TC_About_15_VerifyHeaderLinks:19 - ****** Checking Broken links not present in header *****
+2025-06-21 00:10:44 INFO  TC_About_15_VerifyHeaderLinks:23 - ****** Finished TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:10:48 INFO  TC_About_05_VerifyAboutUsSection:14 - ****** Starting TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:10:48 INFO  TC_About_05_VerifyAboutUsSection:19 - ****** Finished TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:10:52 INFO  TC_About_06_VerifyWhoAreWeSection:14 - ****** Starting TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:10:52 INFO  TC_About_06_VerifyWhoAreWeSection:20 - ****** Finished TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:10:53 INFO  TC_About_16_VerifyFooterLinks:16 - ****** Starting TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:10:54 INFO  TC_About_07_VerifyVisionWeHaveSection:14 - ****** Starting TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:10:54 INFO  TC_About_16_VerifyFooterLinks:19 - ****** Checking Broken links not present in footer *****
+2025-06-21 00:10:54 INFO  TC_About_16_VerifyFooterLinks:23 - ****** Finished TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:10:55 INFO  TC_About_07_VerifyVisionWeHaveSection:21 - ****** Finished TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:10:56 INFO  TC_About_08_VerifyMissionWeAreOnSection:14 - ****** Starting TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:10:57 INFO  TC_About_08_VerifyMissionWeAreOnSection:19 - ****** Finished TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:11:01 INFO  TC_About_09_VerifyWondRxvaluesSection:14 - ****** Starting TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:11:02 INFO  TC_About_19_VerifyLogoInHeader:14 - ****** Starting TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:11:02 INFO  TC_About_19_VerifyLogoInHeader:22 - ****** Finished TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:11:06 INFO  TC_About_09_VerifyWondRxvaluesSection:19 - ****** Finished TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:11:10 INFO  TC_About_05_VerifyAboutUsSection:14 - ****** Starting TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:11:10 INFO  TC_About_05_VerifyAboutUsSection:19 - ****** Finished TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:11:11 INFO  TC_About_11_VerifyFooterCopyRighttext:14 - ****** Starting TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:11:11 INFO  TC_About_11_VerifyFooterCopyRighttext:20 - ****** Finished TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:11:15 INFO  TC_About_18_VerifyFooterLogoAndCenterText:14 - ****** Starting TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:11:16 INFO  TC_About_18_VerifyFooterLogoAndCenterText:21 - ****** Finished TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:11:18 INFO  TC_About_06_VerifyWhoAreWeSection:14 - ****** Starting TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:11:18 INFO  TC_About_06_VerifyWhoAreWeSection:20 - ****** Finished TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:11:20 INFO  TC_About_17_VerifyFaIcons:14 - ****** Starting TC_About_17_VerifyFaIcons *****
+2025-06-21 00:11:20 INFO  TC_About_17_VerifyFaIcons:20 - ****** Finished TC_About_17_VerifyFaIcons *****
+2025-06-21 00:11:25 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:11:26 INFO  TC_About_07_VerifyVisionWeHaveSection:14 - ****** Starting TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:11:30 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 00:11:34 INFO  TC_About_08_VerifyMissionWeAreOnSection:14 - ****** Starting TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:11:43 INFO  TC_About_09_VerifyWondRxvaluesSection:14 - ****** Starting TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:11:51 INFO  TC_About_11_VerifyFooterCopyRighttext:14 - ****** Starting TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:11:59 INFO  TC_About_18_VerifyFooterLogoAndCenterText:14 - ****** Starting TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:12:07 INFO  TC_About_17_VerifyFaIcons:14 - ****** Starting TC_About_17_VerifyFaIcons *****
+2025-06-21 00:12:07 INFO  TC_About_17_VerifyFaIcons:20 - ****** Finished TC_About_17_VerifyFaIcons *****
+2025-06-21 00:12:16 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:12:20 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 00:15:53 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:15:59 INFO  TC_About_01_VerifyPageLoad:14 - ****** Starting TC_About_01_VerifyPageLoad *****
+2025-06-21 00:15:59 INFO  TC_About_01_VerifyPageLoad:21 - ****** Finished TC_About_01_VerifyPageLoad *****
+2025-06-21 00:16:04 INFO  TC_About_10_VerifyPageTitle:14 - ****** Starting TC_About_10_VerifyPageTitle *****
+2025-06-21 00:16:04 INFO  TC_About_10_VerifyPageTitle:20 - ****** Finished TC_About_10_VerifyPageTitle *****
+2025-06-21 00:16:06 INFO  TC_About_15_VerifyHeaderLinks:16 - ****** Starting TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:16:07 INFO  TC_About_15_VerifyHeaderLinks:19 - ****** Checking Broken links not present in header *****
+2025-06-21 00:16:07 INFO  TC_About_15_VerifyHeaderLinks:23 - ****** Finished TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:16:09 INFO  TC_About_16_VerifyFooterLinks:16 - ****** Starting TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:16:10 INFO  TC_About_16_VerifyFooterLinks:19 - ****** Checking Broken links not present in footer *****
+2025-06-21 00:16:10 INFO  TC_About_16_VerifyFooterLinks:23 - ****** Finished TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:16:16 INFO  TC_About_19_VerifyLogoInHeader:14 - ****** Starting TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:16:16 INFO  TC_About_19_VerifyLogoInHeader:22 - ****** Finished TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:16:18 INFO  TC_About_05_VerifyAboutUsSection:14 - ****** Starting TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:16:18 INFO  TC_About_05_VerifyAboutUsSection:19 - ****** Finished TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:16:20 INFO  TC_About_06_VerifyWhoAreWeSection:14 - ****** Starting TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:16:20 INFO  TC_About_06_VerifyWhoAreWeSection:20 - ****** Finished TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:16:24 INFO  TC_About_07_VerifyVisionWeHaveSection:14 - ****** Starting TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:16:25 INFO  TC_About_07_VerifyVisionWeHaveSection:21 - ****** Finished TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:16:27 INFO  TC_About_08_VerifyMissionWeAreOnSection:14 - ****** Starting TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:16:27 INFO  TC_About_08_VerifyMissionWeAreOnSection:19 - ****** Finished TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:16:32 INFO  TC_About_09_VerifyWondRxvaluesSection:14 - ****** Starting TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:16:37 INFO  TC_About_09_VerifyWondRxvaluesSection:19 - ****** Finished TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:16:41 INFO  TC_About_11_VerifyFooterCopyRighttext:14 - ****** Starting TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:16:42 INFO  TC_About_11_VerifyFooterCopyRighttext:20 - ****** Finished TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:16:46 INFO  TC_About_18_VerifyFooterLogoAndCenterText:14 - ****** Starting TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:16:47 INFO  TC_About_18_VerifyFooterLogoAndCenterText:21 - ****** Finished TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:16:51 INFO  TC_About_17_VerifyFaIcons:14 - ****** Starting TC_About_17_VerifyFaIcons *****
+2025-06-21 00:16:51 INFO  TC_About_17_VerifyFaIcons:20 - ****** Finished TC_About_17_VerifyFaIcons *****
+2025-06-21 00:16:56 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:17:02 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 00:20:29 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 00:20:34 INFO  TC_About_01_VerifyPageLoad:14 - ****** Starting TC_About_01_VerifyPageLoad *****
+2025-06-21 00:20:35 INFO  TC_About_01_VerifyPageLoad:21 - ****** Finished TC_About_01_VerifyPageLoad *****
+2025-06-21 00:20:37 INFO  TC_About_10_VerifyPageTitle:14 - ****** Starting TC_About_10_VerifyPageTitle *****
+2025-06-21 00:20:37 INFO  TC_About_10_VerifyPageTitle:20 - ****** Finished TC_About_10_VerifyPageTitle *****
+2025-06-21 00:20:41 INFO  TC_About_15_VerifyHeaderLinks:16 - ****** Starting TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:20:42 INFO  TC_About_15_VerifyHeaderLinks:19 - ****** Checking Broken links not present in header *****
+2025-06-21 00:20:42 INFO  TC_About_15_VerifyHeaderLinks:23 - ****** Finished TC_About_15_VerifyHeaderLinks *****
+2025-06-21 00:20:47 INFO  TC_About_16_VerifyFooterLinks:16 - ****** Starting TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:20:48 INFO  TC_About_16_VerifyFooterLinks:19 - ****** Checking Broken links not present in footer *****
+2025-06-21 00:20:48 INFO  TC_About_16_VerifyFooterLinks:23 - ****** Finished TC_About_16_VerifyFooterLinks *****
+2025-06-21 00:20:49 INFO  TC_About_19_VerifyLogoInHeader:14 - ****** Starting TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:20:50 INFO  TC_About_19_VerifyLogoInHeader:22 - ****** Finished TC_About_19_VerifyLogoInHeader *****
+2025-06-21 00:20:51 INFO  TC_About_05_VerifyAboutUsSection:14 - ****** Starting TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:20:51 INFO  TC_About_05_VerifyAboutUsSection:19 - ****** Finished TC_About_05_VerifyAboutUsSection *****
+2025-06-21 00:20:56 INFO  TC_About_06_VerifyWhoAreWeSection:14 - ****** Starting TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:20:56 INFO  TC_About_06_VerifyWhoAreWeSection:20 - ****** Finished TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 00:21:00 INFO  TC_About_07_VerifyVisionWeHaveSection:14 - ****** Starting TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:21:01 INFO  TC_About_07_VerifyVisionWeHaveSection:21 - ****** Finished TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 00:21:05 INFO  TC_About_08_VerifyMissionWeAreOnSection:14 - ****** Starting TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:21:05 INFO  TC_About_08_VerifyMissionWeAreOnSection:19 - ****** Finished TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 00:21:07 INFO  TC_About_09_VerifyWondRxvaluesSection:14 - ****** Starting TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:21:12 INFO  TC_About_09_VerifyWondRxvaluesSection:19 - ****** Finished TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 00:21:16 INFO  TC_About_11_VerifyFooterCopyRighttext:14 - ****** Starting TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:21:17 INFO  TC_About_11_VerifyFooterCopyRighttext:20 - ****** Finished TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 00:21:18 INFO  TC_About_18_VerifyFooterLogoAndCenterText:14 - ****** Starting TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:21:19 INFO  TC_About_18_VerifyFooterLogoAndCenterText:21 - ****** Finished TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 00:21:20 INFO  TC_About_17_VerifyFaIcons:14 - ****** Starting TC_About_17_VerifyFaIcons *****
+2025-06-21 00:21:20 INFO  TC_About_17_VerifyFaIcons:20 - ****** Finished TC_About_17_VerifyFaIcons *****
+2025-06-21 00:21:25 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 00:21:30 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 15:51:30 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 15:51:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\grouping.xml
+
+2025-06-21 15:51:36 INFO  TC_About_01_VerifyPageLoad:14 - ****** Starting TC_About_01_VerifyPageLoad *****
+2025-06-21 15:51:36 INFO  TC_About_01_VerifyPageLoad:21 - ****** Finished TC_About_01_VerifyPageLoad *****
+2025-06-21 15:51:41 INFO  TC_About_10_VerifyPageTitle:14 - ****** Starting TC_About_10_VerifyPageTitle *****
+2025-06-21 15:51:41 INFO  TC_About_10_VerifyPageTitle:20 - ****** Finished TC_About_10_VerifyPageTitle *****
+2025-06-21 15:51:45 INFO  TC_About_15_VerifyHeaderLinks:16 - ****** Starting TC_About_15_VerifyHeaderLinks *****
+2025-06-21 15:51:47 INFO  TC_About_15_VerifyHeaderLinks:19 - ****** Checking Broken links not present in header *****
+2025-06-21 15:51:47 INFO  TC_About_15_VerifyHeaderLinks:23 - ****** Finished TC_About_15_VerifyHeaderLinks *****
+2025-06-21 15:51:51 INFO  TC_About_16_VerifyFooterLinks:16 - ****** Starting TC_About_16_VerifyFooterLinks *****
+2025-06-21 15:51:52 INFO  TC_About_16_VerifyFooterLinks:19 - ****** Checking Broken links not present in footer *****
+2025-06-21 15:51:52 INFO  TC_About_16_VerifyFooterLinks:23 - ****** Finished TC_About_16_VerifyFooterLinks *****
+2025-06-21 15:51:57 INFO  TC_About_19_VerifyLogoInHeader:14 - ****** Starting TC_About_19_VerifyLogoInHeader *****
+2025-06-21 15:51:57 INFO  TC_About_19_VerifyLogoInHeader:22 - ****** Finished TC_About_19_VerifyLogoInHeader *****
+2025-06-21 15:52:01 INFO  TC_About_05_VerifyAboutUsSection:14 - ****** Starting TC_About_05_VerifyAboutUsSection *****
+2025-06-21 15:52:01 INFO  TC_About_05_VerifyAboutUsSection:19 - ****** Finished TC_About_05_VerifyAboutUsSection *****
+2025-06-21 15:52:03 INFO  TC_About_06_VerifyWhoAreWeSection:14 - ****** Starting TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 15:52:03 INFO  TC_About_06_VerifyWhoAreWeSection:20 - ****** Finished TC_About_06_VerifyWhoAreWeSection *****
+2025-06-21 15:52:07 INFO  TC_About_07_VerifyVisionWeHaveSection:14 - ****** Starting TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 15:52:08 INFO  TC_About_07_VerifyVisionWeHaveSection:21 - ****** Finished TC_About_07_VerifyVisionWeHaveSection *****
+2025-06-21 15:52:12 INFO  TC_About_08_VerifyMissionWeAreOnSection:14 - ****** Starting TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 15:52:12 INFO  TC_About_08_VerifyMissionWeAreOnSection:19 - ****** Finished TC_About_08_VerifyMissionWeAreOnSection *****
+2025-06-21 15:52:17 INFO  TC_About_09_VerifyWondRxvaluesSection:14 - ****** Starting TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 15:52:22 INFO  TC_About_09_VerifyWondRxvaluesSection:19 - ****** Finished TC_About_09_VerifyWondRxvaluesSection *****
+2025-06-21 15:52:24 INFO  TC_About_11_VerifyFooterCopyRighttext:14 - ****** Starting TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 15:52:24 INFO  TC_About_11_VerifyFooterCopyRighttext:20 - ****** Finished TC_About_11_VerifyFooterCopyRighttext *****
+2025-06-21 15:52:28 INFO  TC_About_18_VerifyFooterLogoAndCenterText:14 - ****** Starting TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 15:52:29 INFO  TC_About_18_VerifyFooterLogoAndCenterText:21 - ****** Finished TC_About_18_VerifyFooterLogoAndCenterText *****
+2025-06-21 15:52:34 INFO  TC_About_17_VerifyFaIcons:14 - ****** Starting TC_About_17_VerifyFaIcons *****
+2025-06-21 15:52:34 INFO  TC_About_17_VerifyFaIcons:20 - ****** Finished TC_About_17_VerifyFaIcons *****
+2025-06-21 15:52:38 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
+2025-06-21 15:52:45 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****

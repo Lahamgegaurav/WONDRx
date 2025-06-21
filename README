@@ -1,0 +1,69 @@
+Several Ways we can run this implemented automation script.
+
+1. Locally from eclipse IDE by running "TestNg xml" file
+- Download the source code from repository "https://github.com/Lahamgegaurav/WONDRx.git"
+- Open the eclipse IDE
+- Click on File->Open Projects from File System
+- Select the import source->Directory
+- Click on Finish button
+- Once Project Folder displays in eclipse->Package Explorer
+- Right Click on "grouping.xml" file and Run As TestNg Suite
+
+or
+
+2. Locally from eclipse IDE by running "pom.xml" file
+- Download the source code from repository "https://github.com/Lahamgegaurav/WONDRx.git"
+- Open the eclipse IDE
+- Click on File->Open Projects from File System
+- Select the import source->Directory
+- Click on Finish button
+- Once Project Folder displays in eclipse->Package Explorer
+- Right Click on "pom.xml" file and Run As Maven test
+
+
+or
+
+3. Locally from command prompt
+Pre Requisite- Apache Maven must be installed on machine
+
+- Download the source code from repository "https://github.com/Lahamgegaurav/WONDRx.git"
+- Open Command Prompt
+- Navigate to Project Directory e.g cd C:\Users\Gaurav_L\eclipse-workspace\WONDRx
+- Enter next command 'mvn test'
+
+or 
+
+4. Locally by running run.bat file
+Pre Requisite- Apache Maven must be installed on machine
+- Download the source code from repository "https://github.com/Lahamgegaurav/WONDRx.git"
+- Navigate to Project Directory
+- Right Click on Run.bat file and Edit in Notepad
+- Confirm the project directory path 
+ e.g 
+ cd C:\Users\Gaurav_L\eclipse-workspace\WONDRx
+ mvn test
+- Save file if path changed
+- Double click on Run.bat file
+
+or
+
+5. Running from jenkins
+Pre Requisite- jenkins must be installed on machine
+- Start the jenkins and login
+- Go to the Manage jenkins->Tools
+- In JDK Installations provide name and path of Java_Home e.g. 'C:\Program Files\Java\jdk-21'
+- In Git Installations provide name and path of git e.g 'C:\Program Files\Git\bin\git.exe'
+- Click on Apply and Save changes
+- Go to Dashboard again
+- Click on New Item
+- Enter an item Name
+- Select Maven Project
+- Click on Ok button
+- In Source Code Managment select Git and Provide Repository URL "https://github.com/Lahamgegaurav/WONDRx.git"
+- In Build section, keep pom.xml default in Root POM field
+- In Build section, provide Goals and options 'test'
+- Click on Apply and Save changes
+- Go to Dashboard
+- Click on Item Name
+- Click on Build Now
+

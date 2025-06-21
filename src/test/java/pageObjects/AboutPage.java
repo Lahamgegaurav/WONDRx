@@ -74,6 +74,8 @@ public class AboutPage extends BasePage {
 	@FindBy(linkText = "Consumers")
 	WebElement Consumerslink;
 	
+	@FindBy(tagName = "img")
+	List<WebElement> imagecheckalt;
 	
 	
 	
@@ -304,6 +306,30 @@ public class AboutPage extends BasePage {
 	     driver.navigate().back();
 	
 	}
+	
+	public int VerifyImageAlt() {
+		
+		((JavascriptExecutor) driver).executeScript("window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });");
+         List<String> brokenalt = new ArrayList<>();
+         System.out.println("Total Found " + imagecheckalt.size() + " images.");
+
+        for (WebElement imgalt : imagecheckalt) {
+                  String imgALT = imgalt.getAttribute("alt");
+                  if (imgALT != null && !imgALT.trim().isEmpty()) 
+                   {
+                   System.out.println("imageALT: " + imgALT);
+                   } 
+                  else
+                  {
+                	  brokenalt.add("Broken imagealt: " + imgalt.getAttribute("outerHTML")); 
+                  }
+               }
+        
+        System.out.println("Total Broken imagealt: " + brokenalt.size());
+		return brokenalt.size();
+	
+
+              }
 }
 
 

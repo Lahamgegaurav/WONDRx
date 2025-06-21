@@ -16,7 +16,7 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_About_01_VerifyPageLoad"/>
+     <class name="testCases.TC_About_01_VerifyPageLoad"/>
        <class name="testCases.TC_About_10_VerifyPageTitle"/>
        <class name="testCases.TC_About_15_VerifyHeaderLinks"/>
        <class name="testCases.TC_About_16_VerifyFooterLinks"/>
@@ -29,7 +29,8 @@
        <class name="testCases.TC_About_11_VerifyFooterCopyRighttext"/>
        <class name="testCases.TC_About_18_VerifyFooterLogoAndCenterText"/>
        <class name="testCases.TC_About_17_VerifyFaIcons"/>
-       <class name="testCases.TC_About_25_NavigationBackNext"/>                 
+       <class name="testCases.TC_About_25_NavigationBackNext"/>
+        <class name="testCases.TC_About_14_VerifyImageAlt"/>                  
     </classes>
   </test>
 </suite>

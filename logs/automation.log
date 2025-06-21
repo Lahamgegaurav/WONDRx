@@ -218,3 +218,9 @@
 2025-06-21 16:19:28 INFO  TC_About_17_VerifyFaIcons:20 - ****** Finished TC_About_17_VerifyFaIcons *****
 2025-06-21 16:19:32 INFO  TC_About_25_NavigationBackNext:14 - ****** Starting TC_About_25_NavigationBackNext *****
 2025-06-21 16:19:39 INFO  TC_About_25_NavigationBackNext:18 - ****** Finished TC_About_25_NavigationBackNext *****
+2025-06-21 17:38:17 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Gaurav_L\eclipse-workspace\WONDRx\grouping.xml] otherwise TestNG may fail or not work as expected.
+2025-06-21 17:38:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Gaurav_L\eclipse-workspace\WONDRx\grouping.xml
+
+2025-06-21 17:38:23 INFO  TC_About_14_VerifyImageAlt:14 - ****** Starting TC_About_14_VerifyImageAlt *****
+2025-06-21 17:38:23 INFO  TC_About_14_VerifyImageAlt:20 - ****** Finished TC_About_14_VerifyImageAlt *****
